@@ -1,6 +1,6 @@
 #  Mini AI App Builder Portal
 
-Turn your app ideas into structured requirements and a working mock UI — in seconds.
+Turn your app ideas into structured requirements and a working mock UI in seconds.
 
 Project Link: https://github.com/saiswaroopa19/mini-ai-app-builder
 
@@ -29,7 +29,7 @@ Project Link: https://github.com/saiswaroopa19/mini-ai-app-builder
 
 - **Frontend:** React (Vite)  
 - **Backend:** Node.js + Express  
-- **Database:** MongoDB (Atlas or local)  
+- **Database:** MongoDB (local)  
 - **AI Model:** DeepSeek-R1  
 - **Auth:** JWT + HTTP-only Cookies  
 
